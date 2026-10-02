@@ -7,3 +7,4 @@ print(a.dtype)
 b = np.array([1.5,2,5.6,4,8])
 
 print(b.dtype)
+
