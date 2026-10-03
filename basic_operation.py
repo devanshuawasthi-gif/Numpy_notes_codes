@@ -61,3 +61,18 @@ print(a.sum())
 print(a.min())
 
 print(a.max())
+
+
+
+# UNIVERSAL FUNCTION
+'''NumPy provides familiar mathematical functions such as sin, cos, and exp. I'''
+
+B = np.array(3)
+print(B)
+
+print(np.exp(B))
+
+print(np.sqrt(B))
+
+C = np.array([2., -1., 4.])
+print(np.add(B, C))
